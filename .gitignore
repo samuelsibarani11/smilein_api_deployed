@@ -1,0 +1,9 @@
+smilein-venv
+.DS_Store
+.env
+smile_in.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vercel
