@@ -24,10 +24,7 @@ app = FastAPI(
     version="1.0.0",
 )
 
-origins = [
-    "*",
-    "https://smilein-admin.vercel.app",
-]
+origins = ["https://smilein-admin.vercel.app", "https://web-production-f9b4.up.railway.app"]
 
 # Configure CORS
 app.add_middleware(
