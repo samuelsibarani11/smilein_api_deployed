@@ -26,6 +26,7 @@ app = FastAPI(
 
 origins = [
     "*",
+    "https://smilein-admin.vercel.app",
 ]
 
 # Configure CORS
