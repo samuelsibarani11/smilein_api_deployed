@@ -47,7 +47,7 @@ MODEL_PATH = os.path.join(
     "..",
     "services",
     "model_face_recognition",
-    "mobilenetv2_model-1a.keras",
+    "model_eksperimen_3.keras",
 )
 # Normalize the path
 MODEL_PATH = os.path.normpath(MODEL_PATH)
